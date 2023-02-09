@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: 88475f3f05c15e04aae77b079743751f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_0"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1587
+        width: 845
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea0254103d7a24e9d51c9d6fb43035
+      internalID: -2103226425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_1"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1560
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702c6573abbf7ee40b4e7d37ae9d301d
+      internalID: 630023763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_2"
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1560
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e5b98b91f90674da9f4715a445aaf0
+      internalID: -1734466244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_3"
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1560
+        width: 257
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a07c30665a1b4e43a3c109ca16014ac
+      internalID: 1271128658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_4"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1323
+        width: 845
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd3df34b7e33be4eb978429b616bdca
+      internalID: -86230642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_5"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1249
+        width: 258
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f2fdab11874964f8195781a5456bca
+      internalID: 2079892584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_6"
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1249
+        width: 258
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acdbcd1c81883e42870d18a850d7307
+      internalID: -1447348524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_7"
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1249
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3963209abfce334c892fcca3d782d8a
+      internalID: 635638067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_8"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1059
+        width: 845
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab30540db1a5e11449f014b4a369604f
+      internalID: 338624247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_9"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 939
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bbd90fbd93c62489b16337cce014a5
+      internalID: 749140859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_10"
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 939
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e12ac4203d67e46ab7e7fed99a871d
+      internalID: 1112814769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_11"
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 939
+        width: 257
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3186efec761c0164e9b63d6a35aecb67
+      internalID: 536983973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_12"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 795
+        width: 845
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba8f75a2288484899364aea7af8588
+      internalID: -2120135487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_13"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 626
+        width: 258
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e42b65cff606554198caeda8a337e12
+      internalID: 1738856882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_14"
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 626
+        width: 258
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb423853f475c7c42be332841cc9b8b8
+      internalID: 918447760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_15"
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 626
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d83a7566b8d3a4e8be5f9b25be0146
+      internalID: 1759969274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_16"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 531
+        width: 846
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe6f2a81e73f4c43b9b7a3a732bfec2
+      internalID: -1528294019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_17"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 320
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283d93854c99eda4eb029344cd97056f
+      internalID: -687390268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_18"
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 320
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d9aa952c740749a7619b78583d6e1
+      internalID: 1266601814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_19"
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 320
+        width: 257
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48871828ac4e08b4f91de083a7ace8e9
+      internalID: 18916959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_20"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 267
+        width: 846
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514a5a4ebba3e2146948fc15b5321f47
+      internalID: 1439337855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_14": 918447760
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_11": 536983973
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_17": -687390268
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_7": 635638067
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_15": 1759969274
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_18": 1266601814
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_9": 749140859
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_13": 1738856882
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_0": -2103226425
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_3": 1271128658
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_1": 630023763
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_19": 18916959
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_20": 1439337855
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_5": 2079892584
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_2": -1734466244
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_16": -1528294019
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_6": -1447348524
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_8": 338624247
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_4": -86230642
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_10": 1112814769
+      "\u2014Pngtree\u2014cartoon buttons colorful video game_5992736_12": -2120135487
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
